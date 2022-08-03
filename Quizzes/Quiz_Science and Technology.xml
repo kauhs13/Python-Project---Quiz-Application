@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="Science and Technology Quiz">
+    <Description>All the very best !!!</Description>
+    
+    
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">The number of fundamental units in the SI system is ______.</QuestionText>
+        <Answer name="1">5</Answer>
+        <Answer name="2">7</Answer>
+        <Answer name="3">9</Answer>
+        <Answer name="4">10</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">Which of the following is a heterogeneous mixture?</QuestionText>
+        <Answer name="1">Petrol</Answer>
+        <Answer name="2">Kerosene</Answer>
+        <Answer name="3">Milk</Answer>
+        <Answer name="4">Brass</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">Who is known as father of taxonomy?</QuestionText>
+        <Answer name="1">Carolus Linnaeus</Answer>
+        <Answer name="2">Huxley</Answer>
+        <Answer name="3">Aristotle</Answer>
+        <Answer name="4">Whittaker</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="4">The World Environment Day is celebrated on?</QuestionText>
+        <Answer name="1">15 August</Answer>
+        <Answer name="2">14 November</Answer>
+        <Answer name="3">1 December</Answer>
+        <Answer name="4">5 June</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">The smallest bones in the human body are found in which part?</QuestionText>
+        <Answer name="1">Ear</Answer>
+        <Answer name="2">Neck</Answer>
+        <Answer name="3">Fingers</Answer>
+        <Answer name="4">Brain</Answer>
+    </Question>
+
+
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Pressure is a derived unit</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">VVVF stand for Variant Voltage Vile Frequency</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">Queries is one of the units of energy</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Project Loon is a subsidiary of Google</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Full name of ESR is Electron spin resonance</QuestionText>
+    </Question>
+
+
+</QuizML>

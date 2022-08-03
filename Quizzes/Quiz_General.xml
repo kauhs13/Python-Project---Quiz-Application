@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<QuizML name="General Quiz">
+    <Description>All the very best !!!</Description>
+    
+    
+    <Question type="multichoice" points="10">
+        <QuestionText answer="2">Who gives the Slogan - Jai Jawan, Jai Kisan?</QuestionText>
+        <Answer name="1">Mahatma Gandhi</Answer>
+        <Answer name="2">Lal Bahadur Shastri</Answer>
+        <Answer name="3">Bhagat Singh</Answer>
+        <Answer name="4">Subhash Chandra Bose</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">Main river flowing in the state of Jammu and Kashmir is ?</QuestionText>
+        <Answer name="1">Indus</Answer>
+        <Answer name="2">Chenab</Answer>
+        <Answer name="3">Jhelum</Answer>
+        <Answer name="4">Nubra</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="1">Imperialism refers to</QuestionText>
+        <Answer name="1">Influence by one nation over another</Answer>
+        <Answer name="2">Superiority of one race over another</Answer>
+        <Answer name="3">Mercantilism</Answer>
+        <Answer name="4">Rule by a monarchy</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="3">National Sports Game of China is?</QuestionText>
+        <Answer name="1">Football</Answer>
+        <Answer name="2">Cricket</Answer>
+        <Answer name="3">Table Tennis</Answer>
+        <Answer name="4">Hockey</Answer>
+    </Question>
+    <Question type="multichoice" points="10">
+        <QuestionText answer="4">India is divided into how many pin code zones?</QuestionText>
+        <Answer name="1">Six</Answer>
+        <Answer name="2">Seven</Answer>
+        <Answer name="3">Ten</Answer>
+        <Answer name="4">Nine</Answer>
+    </Question>
+
+
+    <Question type="tf" points="5">
+        <QuestionText answer="t">NITI Aayog is an Advisory Body to the GoI</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">The world is flat</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">Herodotus is titled as the Father of History</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">International Date line passes through the Pacific Ocean.</QuestionText>
+    </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">A group of stars arranged in a particular shape, is called a Solar System</QuestionText>
+    </Question>
+
+
+</QuizML>
